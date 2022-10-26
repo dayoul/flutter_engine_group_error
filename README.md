@@ -21,6 +21,7 @@ First build before hot restart
 I/flutter (21335): REQUEST from ActivityEngine::: 1
 I/flutter (21335): RESPONSE from ApplicationEngine::: 2
 ```
+After hot restart
 ```
 I/flutter (21335): REQUEST from ActivityEngine::: 1
 I/flutter (21335): Invalid argument(s): Illegal argument in isolate message : (object is a regular Dart Instance) #0      _SendPortImpl._sendInternal (dart:isolate-patch/isolate_patch.dart:249:43)
